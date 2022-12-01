@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+background-color: darkolivegreen;
+justify-content: center;
+
+}
+
+p{
+    font-size: 10vh;
+     color:bisque;;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+input[type="submit"]{
+    background-color: darkcyan;
+    width: 100%;
+    height: 10vh;
+font-size: large;
+color: bisque;
+}
